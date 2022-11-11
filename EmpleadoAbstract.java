@@ -17,5 +17,3 @@ public abstract class EmpleadoAbstract{
     public abstract void calculaComision();
     
 }
-
-//Fuentes https://www.youtube.com/watch?v=HvPlEJ3LHgE
